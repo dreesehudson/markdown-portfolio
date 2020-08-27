@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Colorful Dice](https://cdn.pixabay.com/photo/2017/02/01/21/47/cube-2031511_1280.jpg)
