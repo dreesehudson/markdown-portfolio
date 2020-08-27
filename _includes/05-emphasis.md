@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am *very* new to programming but I am also very **eager** to learn these new skills and develop them over the next 16 weeks.
